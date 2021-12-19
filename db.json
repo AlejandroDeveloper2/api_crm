@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "name": "Alejo Diaz Bonilla",
+      "company": "Everis",
+      "email": "diazalejandro123456@gmail.com",
+      "phone": "3105073199",
+      "notes": "Solicita un producto",
+      "id": 1
+    },
+    {
+      "name": "Diego Felipe Muñoz",
+      "company": "Everis",
+      "email": "dfmunos@gmail.com",
+      "phone": "3125447899",
+      "notes": "Solicita un producto",
+      "id": 2
+    },
+    {
+      "name": "Aquiles Brinco",
+      "company": "Everis",
+      "email": "aquiles@gmail.com",
+      "phone": "",
+      "notes": "",
+      "id": 3
+    },
+    {
+      "name": "Cristiano Bravo",
+      "company": "Everis",
+      "email": "cristianobravo@gmail.com",
+      "phone": "3154887665",
+      "notes": "Adquirir un celular",
+      "id": 4
+    }
+  ]
+}
